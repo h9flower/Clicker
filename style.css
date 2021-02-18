@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  letter-spacing: 2px;
+  user-select: none;
+}
+
+body {
+  background: rgb(14, 0, 31);
+  font-family: 'Bungee Outline', cursive;
+  color: aliceblue;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 25vh;
+}
+
+#btn {
+  border: 0;
+  border-radius: 20px;
+  width: 230px;
+  background: rgb(146, 27, 27);
+  font-family: 'Bungee Outline', cursive;
+  font-size: 20px;
+  color: aliceblue;
+  outline: none;
+}
+
+#btn:active {
+  background: #650707;
+  margin-top: 2px;
+}
+
+p {
+  font-family: 'Open Sans';
+}
